@@ -52,11 +52,10 @@ To run this project, you'll need the following Python libraries:
 
 ## File Structure
 BreastCancerDiagnosis/
-├── README.md                # Project documentation
-├── breast_cancer_classifier.ipynb  # Jupyter notebook for ML workflow
-├── app.py                   # Streamlit application for interactive predictions
-└── data/
-    └── breast_cancer.csv    # Dataset used in the project
+->README.md                # Project documentation
+->breast_cancer_classifier.ipynb  # Jupyter notebook for ML workflow
+-> app.py                   # Streamlit application for interactive predictions
+
     
 ## Steps
 1.Data Preprocessing

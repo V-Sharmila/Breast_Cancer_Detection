@@ -9,7 +9,6 @@ The project involves several stages including data preprocessing, exploratory da
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
 - [Dependencies](#dependencies)
-- [File Structure](#file-structure)
 - [Steps](#steps)
 - [Results](#results)
 - [Hyperparameter Tuning](#hyperparameter-tuning)
@@ -50,13 +49,7 @@ To run this project, you'll need the following Python libraries:
 - `imblearn`
 - `streamlit`
 
-## File Structure
-BreastCancerDiagnosis/
-->README.md                # Project documentation
-->breast_cancer_classifier.ipynb  # Jupyter notebook for ML workflow
--> app.py                   # Streamlit application for interactive predictions
-
-    
+   
 ## Steps
 1.Data Preprocessing
 2.EDA
